@@ -1,4 +1,4 @@
-## オブジェクト指向プログラミング
+#S オブジェクト指向プログラミング
 <p align="right">
 * chiharu terashima
 * 2019.xx.xx
