@@ -9,6 +9,6 @@ theme-code       : [ "Fira Code" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 
-highlight        : tomorrow
+highlight        : tomorrow-hight-bright
 
 slide-number: true
