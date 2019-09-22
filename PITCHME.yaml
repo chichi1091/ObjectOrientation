@@ -10,3 +10,7 @@ theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 
 highlight        : ir-black
+
+logo : image/HolmesLogo.png
+footnote : "© 2017 Holmes Inc. All right reserved."
+slide-number: true
