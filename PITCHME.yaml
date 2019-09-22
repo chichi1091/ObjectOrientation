@@ -1,15 +1,15 @@
-theme            : template
+# theme            : template
 
-theme-background : [ "#00aa9b" ]
-theme-headline   : [ "Raleway", "white", "none" ]
-theme-byline     : [ "Raleway", "white", "none" ]
-theme-text       : [ "Ubuntu", "white", "none" ]
-theme-links      : [ "#E27924", "#FF851B" ]
-theme-code       : [ "Fira Code" ]
-theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "0", "10px" ]
+# theme-background : [ "#00aa9b" ]
+# theme-headline   : [ "Raleway", "white", "none" ]
+# theme-byline     : [ "Raleway", "white", "none" ]
+# theme-text       : [ "Ubuntu", "white", "none" ]
+# theme-links      : [ "#E27924", "#FF851B" ]
+# theme-code       : [ "Fira Code" ]
+# theme-controls   : [ "#C0C0C0" ]
+# theme-margins    : [ "0", "10px" ]
 
-highlight        : hybrid
+# highlight        : hybrid
 
 layout : top-left
 slide-number: true
