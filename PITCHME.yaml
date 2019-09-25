@@ -14,3 +14,4 @@ highlight        : ir-black
 layout : top-left
 slide-number: true
 code-line-numbers : true
+code-noblend: white
